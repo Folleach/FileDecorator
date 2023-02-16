@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "testId",
+    "FilePath": "data/testId.txt",
+    "FileName": "hello.txt"
+  },
+  {
+    "Id": "withoutSpecificName",
+    "FilePath": "data/testId.txt"
+  }
+]
