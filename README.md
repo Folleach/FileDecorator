@@ -1,5 +1,5 @@
 ### Summary
-**A simple interface for downloading file.**  
+**A simple interface for downloading files**  
 
 Supports custom id: https://example.net/d/{id}  
 With custom filename using [Content-Disposition](https://developer.mozilla.org/ru/docs/Web/HTTP/Headers/Content-Disposition)
@@ -37,7 +37,7 @@ services:
 ]
 ```
 
-| filed | required? | uses for |
+| field | required? | uses for |
 | --- | --- | --- |
 | Id | x | link formation: https://example.net/d/{id} |
 | FilePath | x | path to the file in file system |
