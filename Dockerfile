@@ -4,4 +4,4 @@ WORKDIR /app
 ADD ./out .
 
 STOPSIGNAL SIGQUIT
-CMD [ "dotnet", "AppEntryPoint.dll" ]
+CMD [ "dotnet", "FileDecorator.dll" ]
